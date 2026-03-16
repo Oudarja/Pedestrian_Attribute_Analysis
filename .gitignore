@@ -1,0 +1,17 @@
+# python env
+.pedestrian_env/
+venv/
+
+# datasets
+PA-100K/
+*.zip
+
+# models
+*.pt
+*.pth
+
+# videos
+*.mp4
+
+# python cache
+__pycache__/
